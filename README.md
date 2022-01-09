@@ -20,5 +20,19 @@ conda create --prefix ./env python=3.7 -y
 ``` 
 conda activate ./env
 ```
+# To update and push the code 
 
+```
+git add *
 
+```
+git commit -m "first commit"
+
+```
+
+```
+git branch -M main
+```
+```
+git push -u origin main
+```
