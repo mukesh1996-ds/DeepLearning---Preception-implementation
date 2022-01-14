@@ -1,38 +1,24 @@
-# DeepLearning---Preception-representation
+# Perceptron_implimentation
+Perceptron_implimentation
 
-In this repo i am working with Deep learning preception basic example
+## Commands using - 
 
-# Command used to create a requirements.txt
-
+### To create any empty file using git bash - 
 ```
-cd .> requirements.txt
-
+cd .> file_name
 ```
 
-# create conda environment
-
+### to create an environment
 ```
 conda create --prefix ./env python=3.7 -y
-
 ```
-# activate the env
 
-``` 
+### to activate the environment
+```
 conda activate ./env
 ```
-# To update and push the code 
 
+## make directory commnand in git bash - 
 ```
-git add *
-
-```
-git commit -m "first commit"
-
-```
-
-```
-git branch -M main
-```
-```
-git push -u origin main
+mkdir Research_env
 ```
